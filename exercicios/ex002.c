@@ -3,5 +3,7 @@
 
 int main() {
     printf("Ola, mundo\n");
-    printf("%d", 6 + 4);
+    int num1 = 300;
+    int num2 = 4;
+    printf("%d", num1 + num2);
 }
