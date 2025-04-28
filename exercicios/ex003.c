@@ -10,7 +10,7 @@ int main() {
     // 6 e 4
     a += b; // a = 10 b = 4
     b = a - b; // a = 10 b = 6
-    a -= b; // b = 6 a = 10 - 6
+    a -= b; // b = 6 a = 4
 
     printf("Valor de a: %d\nValor de b: %d\n", a, b);
 
